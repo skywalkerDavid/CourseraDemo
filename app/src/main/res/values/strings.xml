@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">CourseraDemo</string>
+  <plurals name="coures_postfix">
+    <item quantity="one">%d Course</item>
+    <item quantity="other">%d Courses</item>
+  </plurals>
+  <string name="search_empty_error">Please enter search text!</string>
+  <string name="search_general_error">An error occurred when fetching courses, please try again later</string>
+  <string name="search">Search</string>
+  <string name="no_result">No Result</string>
+</resources>

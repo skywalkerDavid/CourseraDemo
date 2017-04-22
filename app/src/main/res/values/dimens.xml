@@ -1,0 +1,13 @@
+<resources>
+  <dimen name="text_size_small">16sp</dimen>
+  <dimen name="search_height">60dp</dimen>
+  <dimen name="image_width">100dp</dimen>
+  <dimen name="image_height">100dp</dimen>
+  <dimen name="card_side">6dp</dimen>
+  <dimen name="card_top">6dp</dimen>
+  <dimen name="card_bottom">0dp</dimen>
+  <dimen name="card_radius">3dp</dimen>
+  <dimen name="card_elevation">1dp</dimen>
+  <dimen name="card_inner_padding_left_right">10dp</dimen>
+  <dimen name="card_inner_padding_top_bottom">8dp</dimen>
+</resources>
